@@ -126,7 +126,7 @@ Un perceptron a été implémenté manuellement avec les caractéristiques suiva
 ## **Structure des fichiers**
 
 - `data.csv` : Fichier contenant les données brutes.
-- `perceptron.py` : Implémentation du perceptron personnalisé.
+- `neurone.py` : Implémentation du perceptron personnalisé.
 - `notebook.ipynb` : Analyse complète et modélisation dans un notebook interactif.
 
 ---
